@@ -1,0 +1,11 @@
+package leertxt;
+
+import java.io.IOException;
+
+public class Leertxt {
+
+    public static void main(String[] args) throws IOException {
+        new dos();
+    }
+    
+}
